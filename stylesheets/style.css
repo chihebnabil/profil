@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo:400,700);
 /* line 1, ../sass/_grid.scss */
 meta.foundation-version {
   font-family: "/5.3.3/";
@@ -2647,13 +2648,14 @@ button::-moz-focus-inner {
     display: inline-block;
   }
 }
-/* line 2, ../sass/style.scss */
+/* line 3, ../sass/style.scss */
 *, h1 {
   color: #34495e;
   text-align: center;
+  font-family: Arvo;
 }
 
-/* line 6, ../sass/style.scss */
+/* line 8, ../sass/style.scss */
 .header {
   height: 80px;
   width: 100%;
@@ -2661,46 +2663,45 @@ button::-moz-focus-inner {
   line-height: 80px;
   border-bottom: 1px dotted #95a5a6;
 }
-/* line 16, ../sass/style.scss */
+/* line 18, ../sass/style.scss */
 .header .logo {
   height: 80px;
   line-height: 80px;
   font-size: 80px;
-  font-weight: 900;
 }
-/* line 23, ../sass/style.scss */
+/* line 25, ../sass/style.scss */
 .header #menu {
   line-height: 80px;
   height: 80px;
 }
-/* line 28, ../sass/style.scss */
+/* line 30, ../sass/style.scss */
 .header ul {
   list-style: none;
 }
-/* line 32, ../sass/style.scss */
+/* line 34, ../sass/style.scss */
 .header ul li {
   float: left;
   line-height: 80px;
 }
-/* line 35, ../sass/style.scss */
+/* line 37, ../sass/style.scss */
 .header ul li a {
   text-decoration: none;
   color: #34495e;
 }
 
-/* line 44, ../sass/style.scss */
+/* line 46, ../sass/style.scss */
 #profil {
   border-radius: 50%;
   height: 200px;
   width: 200px;
 }
 
-/* line 49, ../sass/style.scss */
+/* line 51, ../sass/style.scss */
 .blurb {
   font-size: 24px;
 }
 
-/* line 52, ../sass/style.scss */
+/* line 54, ../sass/style.scss */
 #slider {
   background: url(../img/better-web-developer.jpg);
   height: 400px;
@@ -2710,7 +2711,7 @@ button::-moz-focus-inner {
   margin-bottom: 20px;
 }
 
-/* line 61, ../sass/style.scss */
+/* line 63, ../sass/style.scss */
 #slider h1 {
   border: 6px solid;
   text-align: center;
