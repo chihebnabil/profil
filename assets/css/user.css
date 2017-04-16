@@ -1,0 +1,148 @@
+.feature .fa{
+  font-size:128px;
+}
+
+footer .fa{
+  font-size:40px;
+  color:#006687;
+  margin-right:10px;
+}
+
+.feature{
+  height:400px;
+  padding-top:100px;
+}
+
+.section-head .fa{
+  color:red;
+}
+
+.features-section-2{
+}
+
+.blog-area{
+  background:#006687;
+}
+
+.blog-area h2, .blog-area h3, .blog-area p{
+  color:white;
+}
+
+.features-section-1{
+  background:linear-gradient(to right, #42275a, #734b6d);
+  color:white;
+}
+
+div.row.header-image{
+  background:#000 url(../../assets/img/stars.png);
+  margin-top:-67px;
+  background-size:cover;
+  padding:130px;
+  -webkit-animation:spin1 2s infinite linear;
+  -moz-animation:spin1 2s infinite linear;
+  -o-animation:spin1 2s infinite linear;
+  -ms-animation:spin1 2s infinite linear;
+  animation:spin1 2s infinite linear;
+}
+
+div.jumbotron{
+  background-color:transparent;
+  color:white;
+}
+
+body{
+  max-width:100%;
+  overflow-x:hidden;
+}
+
+h2.text-center.section-head{
+}
+
+.jumbotron h2{
+  color:inherit;
+}
+
+div.jumbotron{
+}
+
+div.row.section-head{
+  background:#fcfcfc;
+  padding:20px;
+  color:grey;
+}
+
+nav.navbar.navbar-inverse.navbar-static-top{
+  background:none;
+  color:grey;
+  border:none;
+}
+
+div.row.footer .fa{
+  font-size:39px;
+  border:2px solid white;
+  border-radius:25px;
+  height:50px;
+  width:50px;
+  line-height:50px;
+  margin-right:5px;
+}
+
+div.row.footer.text-center{
+  padding:20px;
+  background:linear-gradient(to right, #42275a, #734b6d);
+  color:white;
+}
+
+nav.navbar.navbar-inverse{
+  background:linear-gradient(to right, #42275a, #734b6d);
+}
+
+@media (max-width:600px) {
+  h1.job-ttle{
+    border:2px solid;
+    padding:5px;
+    font-size:17px;
+  }
+}
+
+div.row.projects.section-head{
+}
+
+.projects .thumbnail img{
+  height:165px;
+}
+
+div.row.section-head.blog-posts{
+  background:linear-gradient(to right, #42275a, #734b6d);
+  color:white;
+  padding-bottom:65px;
+}
+
+h1.text-center.job-ttle{
+  border:4px solid;
+  padding:5px;
+}
+
+.footer a{
+  color:white;
+}
+
+div.col-lg-4.col-md-4.col-sm-12.project.text-center{
+  height:330px;
+}
+
+.projects.thumbnail{
+  height:330px;
+}
+
+div.thumbnail{
+  height:330px;
+}
+
+.blog-posts a{
+  color:white;
+  font-weight:300;
+  font-size:28px;
+  text-decoration:none;
+}
+
